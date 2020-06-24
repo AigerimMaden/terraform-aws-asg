@@ -1,2 +1,1 @@
-# terraform-aws-asg
-asg 
+# terraform-class-2020
